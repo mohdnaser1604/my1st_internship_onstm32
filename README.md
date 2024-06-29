@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Testing STM32 Board</title>
+    <title>Testing the STM32 Board</title>
 </head>
 <body>
     <h1>Testing STM32 Board</h1>
@@ -23,7 +23,7 @@
     <ol>
         <li>
             <b>Clone the Repository</b>
-            <pre><code>git clone https://github.com/mohdnaser1604/testing_stm32board.git
+            <pre><code>git clone https://github.com/mohdnaser1604/testing_stm32.git 
 cd testing_stm32board
             </code></pre>
         </li>
